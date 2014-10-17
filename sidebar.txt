@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mge:home|Door43 (mge)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mge|d43-mge repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mge/archive/master.zip|d43-mge.zip]]
+
+**Recent Changes**
+{{changes>ns = mge}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mge|Ethnologue data]]
+
